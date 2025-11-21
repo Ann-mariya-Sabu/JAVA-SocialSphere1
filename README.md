@@ -198,6 +198,8 @@ It bridges Java Swing (OOP) with Lambda + Stream API (Functional Programming).
 
 📝 Author
 
-Ann mariya Sabu
+Name: Ann mariya Sabu
+
 Topic: Lambda Expressions & Stream API in Java
+
 Project Name: SocialSphere – Social Media Management System
